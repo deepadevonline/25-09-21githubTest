@@ -12,6 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("I have create account on GITHUB")
+        var a = 5
+        var b = 6
+        print(a+b)
     }
 
 
